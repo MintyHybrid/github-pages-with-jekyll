@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Test Page learning lab tutorial"
 ---
 
-I'm glad you are here. I plan to talk about ...
+This is a test for setting up a page...
